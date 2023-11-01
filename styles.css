@@ -2,7 +2,6 @@
 .box{
 	height:400px;
 	width:650px;
-	border:2px solid black;
 	margin:30px;
 }
 .p1{
@@ -24,16 +23,15 @@
 #iam{
 	color:#3b99e0;
 }
-.bor{
-	border:2px solid black;
+.b{
+	border:blue;
 }
-
 .box1{
 	flex:4;
 
 }
 .box2{
 	flex:2;
-	border-top:#5ea4f3;
+	border-top:blue;
 	Background-color: #f7fbff;
 }
